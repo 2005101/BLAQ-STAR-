@@ -4,7 +4,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=600&size=25&duration=4000&pause=1000&color=00F7FF&center=true&vCenter=true&width=500&lines=𝐁𝐋𝐀𝐐-𝐒𝐓𝐀𝐑+WHATSAPP+BOT;MULTI-DEVICE+SUPPORT;POWERED+BY+BAILEYS;FAST++SECURE++RELIABLE-++-𝐁𝐋𝐐-𝐁𝐎𝐘+𝐓𝐄𝐂𝐇" alt="Animated Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=600&size=25&duration=4000&pause=1000&color=00F7FF&center=true&vCenter=true&width=500&lines=BLAQ-STAR+WHATSAPP+BOT;MULTI-DEVICE+SUPPORT;POWERED+BY+BAILEYS;FAST++SECURE++RELIABLE++BLAQ-BOY+TECH" alt="Animated Typing SVG" />
 </p>
 
 <div align="center">
@@ -142,9 +142,17 @@
 <div align="center">
   <a href="https://whatsapp.com/channel/0029Vb6zh00FcowG8euO480M">
     <img src="https://img.shields.io/badge/Join-WhatsApp%20Channel-25D366?style=for-the-badge&logo=whatsapp&logoColor=white&labelColor=000000"/>  </a>
-</div> 
+</div>
+
+## SUPPORT GROUP
+
+
 <div align="center">
-  <img src="https://github.com/RN237/YANRA-MD/blob/main/assets/neonpulse.gif?raw=true" width="300"/>
+  <a href="https://chat.whatsapp.com/KOgVSkziO7J0qpoVYuPlzA?mode=hqrt3">
+    <img src="https://img.shields.io/badge/Join-WhatsApp%20Channel-25D366?style=for-the-badge&logo=whatsapp&logoColor=white&labelColor=000000"/>  </a
+</div>                                                                      
+<div align="center">
+  <img src="https://github.com/2005101/BLAQ-STAR-/blob/main/assets/neonpulse.gif?raw=true" width="300"/>
 </div>
 
 ## ⚠️ WARNING !
@@ -155,28 +163,28 @@
 </div>
 
 <div align="center">
-  <img src="https://github.com/RN237/YANRA-MD/blob/main/assets/digitalrain.gif?raw=true" width="100%"/>
+  <img src="https://github.com/2005101/BLAQ-STAR-/blob/main/assets/digitalrain.gif?raw=true" width="100%"/>
 </div>
 
 ## 🗃️ PROJECT ARCHITECTS
 <div align="center">
-  <a href="https://github.com/RN237">
+  <a href="https://github.com/2005101">
     <img src="https://github-readme-stats.vercel.app/api?username=RN237&show_icons=true&theme=dark&border_color=00ffff&title_color=00ffff&icon_color=00ffff" width="400"/>
   </a>
 </div>
 
 <div align="center">
-  <img src="https://github.com/RN237/YANRA-MD/blob/main/assets/futuretech.gif?raw=true" width="100%"/>
+  <img src="https://github.com/2005101/BLAQ-STAR-/blob/main/assets/futuretech.gif?raw=true" width="100%"/>
 </div>
 
-## 👑 YANRA STATUS
+## BLAQ-STAR-☆STATUS 
 
 ```diff
 + Project Status: Active
-! Version: 3.1.0 Neon Edition
+! Version: 1.0 Neon Edition
 # License: APACHE
 ```
 
 <div align="center">
-  <img src="https://github.com/RN237/YANRA-MD/blob/main/assets/endwave.gif?raw=true" width="100%"/>
+  <img src="https://github.com/2005101/BLAQ-STAR-/blob/main/assets/endwave.gif?raw=true" width="100%"/>
 </div>
