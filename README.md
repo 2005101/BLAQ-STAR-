@@ -1,29 +1,29 @@
 # BLAQ-STAR-
 <p align="center">
-  <h1 align="center" style="font-family: 'Orbitron', sans-serif; text-shadow: 0 0 10px #00ffff, 0 0 20px #0088ff;">𝐒𝐊𝐘𝐏𝐄𝐑-𝐌𝐃</h1>
+  <h1 align="center" style="font-family: 'Orbitron', sans-serif; text-shadow: 0 0 10px #00ffff, 0 0 20px #0088ff;">𝐁𝐋𝐀𝐐 𝐁𝐎𝐘 𝐓𝐞𝐜𝐇</h1>
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=600&size=25&duration=4000&pause=1000&color=00F7FF&center=true&vCenter=true&width=500&lines=SKYPER-MD+WHATSAPP+BOT;MULTI-DEVICE+SUPPORT;POWERED+BY+BAILEYS;FAST++SECURE++RELIABLE" alt="Animated Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=600&size=25&duration=4000&pause=1000&color=00F7FF&center=true&vCenter=true&width=500&lines=𝐁𝐋𝐀𝐐-𝐒𝐓𝐀𝐑+WHATSAPP+BOT;MULTI-DEVICE+SUPPORT;POWERED+BY+BAILEYS;FAST++SECURE++RELIABLE-++-𝐁𝐋𝐐-𝐁𝐎𝐘+𝐓𝐄𝐂𝐇" alt="Animated Typing SVG" />
 </p>
 
 <div align="center">
-  <a href="https://github.com/2005101/followers"><img title="Followers" src="https://img.shields.io/github/followers/RN237?color=EB5406&style=for-the-badge&logo=github&logoColor=white"></a>
-  <a href="https://github.com/2005101/SKYPER-MD/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/RN237/YANRA-MD?color=FFCE44&style=for-the-badge&logo=reverbnation&logoColor=white"></a>
-  <a href="https://github.com/2005101/SKYPER-MD/network/members"><img title="Forks" src="https://img.shields.io/github/forks/2005101/SKYPER-MD?color=FF007F&style=for-the-badge&logo=git&logoColor=white"></a>
-  <a href="https://github.com/2005101/SKYPER-MD/"><img title="Size" src="https://img.shields.io/github/repo-size/2005101/BLAQ-STAR-MD?style=for-the-badge&color=FFFF00&logo=docusign&logoColor=white"></a>
-  <a href="https://github.com/RN237/YANRA-MD/graphs/commit-activity"><img height="28" src="https://img.shields.io/badge/Maintained%3F-yes-green.svg?style=for-the-badge&logo=gitpod&logoColor=white"></a>
+  <a href="https://github.com/2005101/followers"><img title="Followers" src="https://img.shields.io/github/followers/2005101?color=EB5406&style=for-the-badge&logo=github&logoColor=white"></a>
+  <a href="https://github.com/2005101/BLAQ-STAR-/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/2005101/BLAQ-STAR-?color=FFCE44&style=for-the-badge&logo=reverbnation&logoColor=white"></a>
+  <a href="https://github.com/2005101/BLAQ-STAR-/network/members"><img title="Forks" src="https://img.shields.io/github/forks/2005101/BLAQ-STAR-?color=FF007F&style=for-the-badge&logo=git&logoColor=white"></a>
+  <a href="https://github.com/2005101/BLAQ-STAR-/"><img title="Size" src="https://img.shields.io/github/repo-size/2005101/BLAQ-STAR-?style=for-the-badge&color=FFFF00&logo=docusign&logoColor=white"></a>
+  <a href="https://github.com/2005101/BLAQ-STAR-/graphs/commit-activity"><img height="28" src="https://img.shields.io/badge/Maintained%3F-yes-green.svg?style=for-the-badge&logo=gitpod&logoColor=white"></a>
 </div>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=YANRA-MD&label=VISITORS&style=flat-square&color=0002FF" />
+  <img src="https://komarev.com/ghpvc/?username=BLAQ-STAR-&label=VISITORS&style=flat-square&color=0002FF" />
 </p>
 
-> **Current Bot Version `3.1.0`**  
+> **Current Bot Version `1.0`**  
 
 ---
 
-*Dont forget to fork & star repo*
+*Dont forget to fork & star my repo*
 
 ---
 
@@ -79,7 +79,7 @@
   
   ---
   <p style="color: #aaaaaa; font-size: 12px; margin-top: 10px;">
-    <img src="https://github.com/RN237/YANRA-MD/blob/main/assets/warning.gif?raw=true" width="15"/> 
+    <img src="https://github.com/2005101/BLAQ-STAR-/blob/main/assets/warning.gif?raw=true" width="15"/> 
     Connection issues may require VPN activation
   </p>
 </div>
@@ -87,7 +87,7 @@
 </div>
 
 <div align="center">
-  <img src="https://github.com/RN237/YANRA-MD/blob/main/assets/techwave.gif?raw=true" width="80%"/>
+  <img src="https://github.com/2005101/BLAQ-STAR-/blob/main/assets/techwave.gif?raw=true" width="80%"/>
 </div>
 
 ## 📡 DEPLOYMENT OPTIONS
