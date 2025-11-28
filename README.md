@@ -11,7 +11,7 @@
   <a href="https://github.com/2005101/followers"><img title="Followers" src="https://img.shields.io/github/followers/2005101?color=EB5406&style=for-the-badge&logo=github&logoColor=white"></a>
   <a href="https://github.com/2005101/BLAQ-STAR-/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/2005101/BLAQ-STAR-?color=FFCE44&style=for-the-badge&logo=reverbnation&logoColor=white"></a>
   <a href="https://github.com/2005101/BLAQ-STAR-/network/members"><img title="Forks" src="https://img.shields.io/github/forks/2005101/BLAQ-STAR-?color=FF007F&style=for-the-badge&logo=git&logoColor=white"></a>
-  <a href="https://github.com/2005101/BLAQ-STAR-/"><img title="Size" src="https://img.shields.io/github/repo-size/2005101/BLAQ-STAR-?style=for-the-badge&color=FFFF00&logo=docusign&logoColor=white"></a>
+  <a href="https://github.com/2005101/BLAQ-STAR-/"><img title="Size" src="https://img.shields.io/github/repo-size/2005101/BLAQ-STAR-?style=for-the-badge&color=FFFFFF&logo=docusign&logoColor=white"></a>
   <a href="https://github.com/2005101/BLAQ-STAR-/graphs/commit-activity"><img height="28" src="https://img.shields.io/badge/Maintained%3F-yes-green.svg?style=for-the-badge&logo=gitpod&logoColor=white"></a>
 </div>
 
@@ -141,7 +141,7 @@
 
 <div align="center">
   <a href="https://whatsapp.com/channel/0029Vb6zh00FcowG8euO480M">
-    <img src="https://img.shields.io/badge/Join-WhatsApp%20Group-25D366?style=for-the-badge&logo=whatsapp&logoColor=blue&labelColor=000000"/>  </a>
+    <img src="https://img.shields.io/badge/Join-WhatsApp%20Channel-25D366?style=for-the-badge&logo=whatsapp&logoColor=blue&labelColor=000000"/>  </a>
 </div>
 
 ## SUPPORT GROUP
@@ -149,7 +149,7 @@
 
 <div align="center">
   <a href="https://chat.whatsapp.com/KOgVSkziO7J0qpoVYuPlzA?mode=hqrt3">
-    <img src="https://img.shields.io/badge/Join-WhatsApp%20Channel-25D366?style=for-the-badge&logo=whatsapp&logoColor=white&labelColor=000000"/>  </a
+    <img src="https://img.shields.io/badge/Join-WhatsApp%20Group-25D366?style=for-the-badge&logo=whatsapp&logoColor=green&labelColor=00ffff"/>  </a
 </div>                                                                      
 <div align="center">
   <img src="https://github.com/2005101/BLAQ-STAR-/blob/main/assets/neonpulse.gif?raw=true" width="300"/>
