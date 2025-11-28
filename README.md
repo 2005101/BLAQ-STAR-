@@ -36,10 +36,10 @@
 </div>
 
 <div align="center">
-  <img src="https://github.com/RN237/YANRA-MD/blob/main/assets/divider.gif?raw=true" width="100%"/>
+  <img src="https://github.com/2005101/BLAQ-STAR-/blob/main/assets/divider.gif?raw=true" width="100%"/>
 </div>
 <div align="center">
-  <img src="https://github.com/RN237/YANRA-MD/blob/main/assets/deployheader.gif?raw=true" width="80%"/>
+  <img src="https://github.com/ 2005101/BLAQ-STAR-/blob/main/assets/deployheader.gif?raw=true" width="80%"/>
 </div>
 
 ## 🛰️ Deployment Steps
@@ -48,7 +48,7 @@
     
 <div style="background: #111111; padding: 15px; border-radius: 10px; border-left: 3px solid #ff00ff;">
   <p style="color: #00ffff;">First star & Fork repo using button Below</p>
-  <a href='https://github.com/RN237/YANRA-MD/fork' target="_blank">
+  <a href='https://github.com/2005101/BLAQ-STAR-/fork' target="_blank">
     <img src='https://img.shields.io/badge/FORK_REPOSITORY-008000?style=for-the-badge&logo=github&logoColor=white&labelColor=000000'/>
   </a>
 </div>
@@ -140,11 +140,9 @@
 ## 🪀  SUPPORT CHANNEL
 
 <div align="center">
-  <a href="https://whatsapp.com/channel/0029Vafn6hc7DAX3fzsKtn45">
-    <img src="https://img.shields.io/badge/Join-WhatsApp%20Channel-25D366?style=for-the-badge&logo=whatsapp&logoColor=white&labelColor=000000"/>
-  </a>
-</div>
-
+  <a href="https://whatsapp.com/channel/0029Vb6zh00FcowG8euO480M">
+    <img src="https://img.shields.io/badge/Join-WhatsApp%20Channel-25D366?style=for-the-badge&logo=whatsapp&logoColor=white&labelColor=000000"/>  </a>
+</div> 
 <div align="center">
   <img src="https://github.com/RN237/YANRA-MD/blob/main/assets/neonpulse.gif?raw=true" width="300"/>
 </div>
