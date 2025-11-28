@@ -141,7 +141,7 @@
 
 <div align="center">
   <a href="https://whatsapp.com/channel/0029Vb6zh00FcowG8euO480M">
-    <img src="https://img.shields.io/badge/Join-WhatsApp%20Channel-25D366?style=for-the-badge&logo=whatsapp&logoColor=white&labelColor=000000"/>  </a>
+    <img src="https://img.shields.io/badge/Join-WhatsApp%20Group-25D366?style=for-the-badge&logo=whatsapp&logoColor=blue&labelColor=000000"/>  </a>
 </div>
 
 ## SUPPORT GROUP
